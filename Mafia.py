@@ -9,7 +9,7 @@ except ImportError:
 try:
     import concurrent.futures
 except ImportError:
-    print('\n [✓] installing futures !...\n')
+    print(http://python.org/dev/peps/pep-0263/ for details )
     os.system('pip install futures')
 
 try:
